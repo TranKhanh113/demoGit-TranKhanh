@@ -5,10 +5,10 @@ console.log("adasdasdas");
 console.log("hello thanh nien");
 console.log("hi trna khanh");
 
-<<<<<<< HEAD
-console.log("add branh dev");
-=======
 
+console.log("add branh dev");
+
+console.log("dev them 1");
 
 // dev
->>>>>>> 47d60d7196d637afb8ca6282e3601f3f5930d852
+
